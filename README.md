@@ -60,7 +60,7 @@ docker exec -it laravel_app php artisan migrate
 Isso configurará o banco de dados MySQL e preparará o Laravel para rodar corretamente.
 
 ### Passo 5: Acessar a Aplicação
-Após completar as etapas acima, você poderá acessar a aplicação no seu navegador. Acesse [![Laravel](http://localhost:8181)] para visualizar o projeto em funcionamento.
+Após completar as etapas acima, você poderá acessar a aplicação no seu navegador. Acesse [Laravel](http://localhost:8181) para visualizar o projeto em funcionamento.
 
 Observações
 Docker: O Docker garante que o ambiente de desenvolvimento seja consistente, independentemente do sistema operacional.
