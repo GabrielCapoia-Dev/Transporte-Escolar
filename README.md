@@ -19,7 +19,7 @@ Siga as instruções abaixo para clonar o repositório e configurar o ambiente d
 Abra o terminal e execute o comando abaixo para clonar o repositório do GitHub para sua máquina local:
 
 ```bash
-git clone https://github.com/GabrielCapoia-Dev/Transporte-Escolar.git
+https://github.com/GabrielCapoia-Dev/transporte-escolar.git
 ```
 ### Passo 2: Navegar para o Diretório do Projeto
 
